@@ -1,0 +1,17 @@
+numpy==1.24.0
+peewee==3.17.5
+scipy==1.13.1
+sqlite3
+os
+scipy.io
+scipy.ndimage
+hashlib
+time
+warnings
+argparse
+builddb
+IPython.display
+sounddevice
+matplotlib.pyplot
+pandas
+sklearn.metrics
